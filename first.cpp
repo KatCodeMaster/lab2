@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>;
 int calculateSum(int* arr, int size) {
     int sum = 0;
     for (int i = 0; i < size; ++i) {
